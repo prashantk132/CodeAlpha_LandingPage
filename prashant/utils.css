@@ -1,0 +1,107 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.font-bold{
+    font-weight: bold;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.my-1{
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+
+.my-2{
+    margin-bottom: 36px;
+}
+
+.my-3{
+    margin: 0 30px;
+}
+
+.px-2{
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+.text-color{
+    color: #e24937;
+}
+
+.btn{
+    padding: 4px 12px;
+    height: 50px;
+    border: 2px solid blue;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+    background-color: #e24937;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.font-size{
+    font-size: larger;
+}
+
+.margin-bottom{
+    margin-bottom: 60px;
+}
+
+.bg-or{
+    background-color: #e24937;
+}
+
+.bg-gr{
+    background-color: rgb(162, 255, 0);
+}
+
+.bg-bl{
+    background-color: rgb(170, 227, 243);
+}
+
+.cursor{
+    cursor: pointer;
+}
+
+.border{
+    border: 3px solid blue;
+    background-color: #e7f0fc;
+    border-radius: 4px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 40px;
+    width: 170px;
+    justify-content: center;
+}
